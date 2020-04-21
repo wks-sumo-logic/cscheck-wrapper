@@ -17,9 +17,9 @@ Currently setup for MacIntosh, the directories can be changed to suite
     
     3. Clone this repo using the following command:
     
-       git git@github.com:wks-sumo-logic/sumologic-checkup.git
+       git github.com:wks-sumo-logic/cscheck-wrapper.git
 
-       This will create a new folder sumologic-checkup
+       This will create a new folder cscheck-wrapper
     
     6. Change into the cfg folder to specify all of the organizations you want too check
 
